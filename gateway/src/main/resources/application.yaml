@@ -4,7 +4,6 @@ spring:
   application:
     name: short-link-gateway
   profiles:
-#    active: aggregation
      active: dev
   data:
     redis:
